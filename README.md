@@ -16,7 +16,7 @@ A candidate has to implement the following:
     + Price
     + Updated date with the format "Day/Month/Year"
 
- # The video
+ # The result of the test video
 
 https://github.com/user-attachments/assets/87ef9df7-1881-44d7-b5d1-4bd9b697e8e2
 
