@@ -1,4 +1,4 @@
-package com.ethermail.androidchallenge.data
+package com.ethermail.androidchallenge.data.datasource.remote
 
 
 import com.ethermail.androidchallenge.data.model.assets.AssetsApiData

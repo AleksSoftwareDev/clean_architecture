@@ -1,4 +1,4 @@
-package com.ethermail.androidchallenge.assets
+package com.ethermail.androidchallenge.presentation.assets
 
 val dummyAssets = listOf(
     AssetUiItem("BTC", "Bitcoin", "6929.8217756835584756"),

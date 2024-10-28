@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Android Challenge</string>
+    <string name="load_data">Load data</string>
+    <string name="error_data">Error load data\n</string>
+    <string name="unavailable_market">Market is unavailable.\n</string>
 </resources>

@@ -1,8 +1,8 @@
 package com.ethermail.androidchallenge.data.di
 
 
-import com.ethermail.androidchallenge.data.HOST_COINCAP
-import com.ethermail.androidchallenge.data.CoincapService
+import com.ethermail.androidchallenge.data.datasource.remote.HOST_COINCAP
+import com.ethermail.androidchallenge.data.datasource.remote.CoincapService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -24,4 +24,6 @@ object DataModule {
             .build()
             .create(CoincapService::class.java)
     }
+
+
 }
