@@ -16,6 +16,11 @@ A candidate has to implement the following:
     + Price
     + Updated date with the format "Day/Month/Year"
 
+ # The video
+
+https://github.com/user-attachments/assets/87ef9df7-1881-44d7-b5d1-4bd9b697e8e2
+
+
 # Guideline
 The candidate is free to implement the solution in any way that they consider appropriate, but please consider that we love well designed, clear and simple code. 
 SOLID principles and Clean Architecture are fundamental concepts in our development philosophy.
